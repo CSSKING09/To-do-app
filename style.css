@@ -97,3 +97,6 @@ ul li span {
 ul li span:hover {
     background: #edeef0;
 }
+.none {
+    display: none;
+}
